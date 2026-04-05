@@ -12,7 +12,19 @@
 </head>
 
 <body>
-  <header></header>
+  <header class="header">
+    <figure>
+      <img src="img/logo/250x150.png" alt="Imagen del logo de StepUp">
+    </figure>
+    <nav class="nav">
+      <ul>
+        <li>Inicio</li>
+        <li>Producto</li>
+        <li>Contacto</li>
+        <li>Alumno</li>
+      </ul>
+    </nav>
+  </header>
   <main></main>
   <footer></footer>
 </body>
