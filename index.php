@@ -13,9 +13,10 @@
 
 <body>
   <header class="header">
-    <figure>
-      <img src="img/logo/250x150.png" alt="Imagen del logo de StepUp">
-    </figure>
+    <picture>
+      <source media="(min-width: 1300px)" srcset="img/logo/250x150.png">
+      <img src="img/logo/150x75.png" alt="Imagen del logo">
+    </picture>
     <nav class="nav">
       <ul>
         <li>Inicio</li>
