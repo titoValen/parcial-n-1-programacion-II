@@ -17,12 +17,27 @@
       <source media="(min-width: 1300px)" srcset="img/logo/250x150.png">
       <img src="img/logo/150x75.png" alt="Imagen del logo">
     </picture>
-    <nav class="nav">
+    <nav class="nav desktop">
       <ul>
         <li>Inicio</li>
         <li>Producto</li>
         <li>Contacto</li>
         <li>Alumno</li>
+      </ul>
+    </nav>
+    <!-- Hamburger menu -->
+    <input type="checkbox" id="checkbox">
+    <label for="checkbox" class="toggle">
+      <div class="bars" id="bar1"></div>
+      <div class="bars" id="bar2"></div>
+      <div class="bars" id="bar3"></div>
+    </label>
+    <nav class="nav responsive">
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Producto</a></li>
+        <li><a href="#">Contacto</a></li>
+        <li><a href="#">Alumno</a></li>
       </ul>
     </nav>
   </header>
