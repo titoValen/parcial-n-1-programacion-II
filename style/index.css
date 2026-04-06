@@ -6,10 +6,15 @@
   justify-content: space-between;
 }
 
+.header picture img {
+  width: clamp(125px, 20vw, 300px);
+  height: auto;
+}
+
 .nav {
   color: var(--color-white);
-  font-family: var(--font-body);
-  font-size: 1.25rem;
+  font-family: var(--font-title);
+  font-size: 32px;
 }
 
 .header .nav ul {
