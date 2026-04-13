@@ -49,3 +49,9 @@ li {
 p, a, span, li {
   text-wrap: pretty;
 }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
