@@ -6,7 +6,7 @@
 <body>
   <?php require_once 'components/header.php'; ?>
   <main></main>
-  <footer></footer>
+  <?php require_once 'components/footer.php'; ?>
 </body>
 
 </html>
