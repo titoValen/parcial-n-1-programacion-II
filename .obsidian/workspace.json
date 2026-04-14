@@ -35,8 +35,7 @@
               "title": "CHECKLIST"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,9 +198,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2f6014d406032ad9",
+  "active": "3b3658f4faf2dff2",
   "lastOpenFiles": [
+    "img/photo/alumno.jpeg",
+    "img/photo/autor250.jpeg",
+    "img/photo",
+    "sections/contacto.php",
+    "sections/producto.php",
+    "sections/home.php",
+    "sections/alumno.php",
+    "img/icon/GitHub_dark.svg",
+    "img/icon/GitHub_light.svg",
+    "img/icon/linkedin.svg",
+    "img/icon/gmail.svg",
+    "img/icon",
+    "img/Nueva carpeta",
+    "CHECKLIST.md",
     "README.md",
-    "CHECKLIST.md"
+    "sections/datos_alumno.php",
+    "sections"
   ]
 }
