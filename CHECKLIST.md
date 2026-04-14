@@ -1,9 +1,9 @@
 ## 📁 Estructura del proyecto
 - [ ] index.php (template base)
 - [ ] carpeta `/pages` o `/sections`
-- [ ] carpeta `/css`
-- [ ] carpeta `/img`
-- [ ] archivo JSON (`productos.json`)
+- [x] carpeta `/css`
+- [x] carpeta `/img`
+- [x] archivo JSON (`productos.json`)
 - [ ] clase Producto (`Producto.php`)
 - [ ] archivo de funciones (opcional pero recomendado)
 - [ ] archivo del form (`procesar.php`)
@@ -21,17 +21,15 @@
 # 🛍️ CHECKLIST POR PRODUCTO
 
 Cada producto debe tener mínimo 7 atributos:
-- [ ] id
-- [ ] nombre
-- [ ] descripción
-- [ ] precio
-- [ ] imagen
-- [ ] categoría
-- [ ] fecha (ej: alta o lanzamiento)
+- [x] id
+- [x] nombre
+- [x] descripción
+- [x] precio
+- [x] imagen
+- [x] categoría
 💡 Extras que suman:
-- [ ] stock
-- [ ] descuento
-- [ ] marca
+- [x] stock
+- [x] marca
 
 ---
 
@@ -44,10 +42,10 @@ Cada producto debe tener mínimo 7 atributos:
 ---
 
 ## 📦 JSON
-- [ ] estructura válida
-- [ ] mínimo 15 productos
-- [ ] datos variados (string, number, date)
-- [ ] bien formateado
+- [x] estructura válida
+- [x] mínimo 15 productos
+- [x] datos variados (string, number, date)
+- [x] bien formateado
 
 ---
 
