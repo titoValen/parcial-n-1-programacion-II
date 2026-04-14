@@ -7,7 +7,7 @@
 }
 
 .header picture img {
-  width: clamp(125px, 14vw, 300px);
+  width: clamp(125px, 12vw, 300px);
   height: auto;
 }
 
