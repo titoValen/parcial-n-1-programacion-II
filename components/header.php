@@ -5,10 +5,10 @@
   </picture>
   <nav class="nav desktop">
     <ul>
-      <li><a href="#">Inicio</a></li>
-      <li><a href="#">Producto</a></li>
-      <li><a href="#">Contacto</a></li>
-      <li><a href="#">Alumno</a></li>
+      <li><a href="?vista=home">Inicio</a></li>
+      <li><a href="?vista=producto">Producto</a></li>
+      <li><a href="?vista=contacto">Contacto</a></li>
+      <li><a href="?vista=alumno">Alumno</a></li>
     </ul>
   </nav>
   <!-- Hamburger menu -->
@@ -20,10 +20,10 @@
   </label>
   <nav class="nav responsive">
     <ul>
-      <li><a href="#">Inicio</a></li>
-      <li><a href="#">Producto</a></li>
-      <li><a href="#">Contacto</a></li>
-      <li><a href="#">Alumno</a></li>
+      <li><a href="?vista=home">Inicio</a></li>
+      <li><a href="?vista=producto">Producto</a></li>
+      <li><a href="?vista=contacto">Contacto</a></li>
+      <li><a href="?vista=alumno">Alumno</a></li>
     </ul>
   </nav>
 </header>
