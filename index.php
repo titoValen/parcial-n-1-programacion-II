@@ -1,4 +1,7 @@
-<?php require_once 'components/head.php'; ?>
+<?php 
+require_once 'components/head.php'; 
+require_once 'php/process.php';
+?>
 
 <body>
   <?php require_once 'components/header.php'; ?>
