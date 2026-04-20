@@ -152,6 +152,54 @@
   }
 }
 
+/* Card */
+.card {
+  background: linear-gradient(
+    180deg,
+    rgba(136, 136, 136, 0.5) 28%,
+    rgba(16, 16, 16, 1) 97%
+  );
+  color: var(--color-white);
+  width: fit-content;
+  display: flex;
+  border-radius: 1rem;
+}
+
+.card-header {
+  font-family: var(--font-title);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 191, 255, 1) 10%,
+    rgba(166, 255, 0, 1) 90%
+  );
+  color: var(--color-black);
+  display: grid;
+  place-content: center;
+  width: fit-content;
+  height: auto;
+  padding: 0.25rem 0.5rem;
+  overflow: hidden;
+}
+
+.card-price {
+  display: block;
+  font-size: 2.375rem;
+  font-weight: bold;
+  transform: rotate(180deg);
+  text-orientation: mixed;
+  writing-mode: vertical-lr;
+}
+
+.card-title {
+  font-family: var(--font-body);
+  text-align: center;
+  font-size: clamp(20px, 2.5vw, 22px);
+}
+
+.card figure {
+  width: clamp(250px, 30vw, 400px);
+}
+
 /* Inicio Footer */
 .container-footer {
   background: var(--color-black);
