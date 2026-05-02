@@ -9,7 +9,6 @@
         <img src="<?php echo $producto->getImage(); ?>" alt="<?php echo $producto->getAlt(); ?>">
       </figure>
       <h2 class="card-title"><?php echo $producto->getBrand(); ?> <?php echo $producto->getName(); ?></h2>
-      <p><?php echo $producto->getDescription(); ?></p>
     </div>
   </article>
 <?php endif; ?>
