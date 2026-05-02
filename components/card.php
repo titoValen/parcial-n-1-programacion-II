@@ -1,4 +1,6 @@
 <?php
+require_once("php/process.php");
+
 foreach ($datos as $producto => $items) {
   foreach ($items as $item) {
     $price = number_format($item["price"], 0, ",", ".");
