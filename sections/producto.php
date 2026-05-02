@@ -8,7 +8,7 @@ $productos = Producto::obtenerProduct($url);
 <main class="products-section">
   <h1>Productos</h1>
 
-  <section class="products-grid" aria-label="Listado de productos">
+  <section class="products-grid">
     <?php foreach ($productos as $producto): ?>
       <?php require 'components/card.php'; ?>
     <?php endforeach; ?>
