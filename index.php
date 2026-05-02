@@ -1,6 +1,5 @@
 <?php 
 require_once 'components/head.php'; 
-require_once 'php/process.php';
 ?>
 
 <body>
