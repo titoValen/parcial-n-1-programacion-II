@@ -1,20 +1,15 @@
-<?php
-require_once("php/process.php");
+<?php if (isset($producto)): ?>
+  <article class="card" id="producto-<?php echo $producto->getId(); ?>">
+    <div class="card-header">
+      <span class="card-price">$<?php echo number_format($producto->getPrice(), 0, ',', '.'); ?></span>
+    </div>
 
-foreach ($datos as $producto => $items) {
-  foreach ($items as $item) {
-    $price = number_format($item["price"], 0, ",", ".");
-
-    echo "<div class='card' id='$item[id]'>";
-    echo "<div class='card-header'>";
-    echo "<span class='card-price'>$$price</span>";
-    echo "</div>";
-    echo "<div class='card-body'>";
-    echo "<figure>";
-    echo "<img src='$item[image]' alt='$item[alt]'>";
-    echo "</figure>";
-    echo "<h2 class='card-title'>$item[name]</h2>";
-    echo "</div>";
-    echo "</div>";
-  }
-}
+    <div class="card-body">
+      <figure>
+        <img src="<?php echo $producto->getImage(); ?>" alt="<?php echo $producto->getAlt(); ?>">
+      </figure>
+      <h2 class="card-title"><?php echo $producto->getBrand(); ?> <?php echo $producto->getName(); ?></h2>
+      <p><?php echo $producto->getDescription(); ?></p>
+    </div>
+  </article>
+<?php endif; ?>
