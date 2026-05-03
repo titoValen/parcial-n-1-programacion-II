@@ -1,20 +1,20 @@
 ## 📁 Estructura del proyecto
-- [ ] index.php (template base)
-- [ ] carpeta `/pages` o `/sections`
-- [x] carpeta `/css`
+- [x] index.php (template base)
+- [x] carpeta `/sections`
+- [x] carpeta `/style`
 - [x] carpeta `/img`
-- [x] archivo JSON (`productos.json`)
-- [ ] clase Producto (`Producto.php`)
-- [ ] archivo de funciones (opcional pero recomendado)
-- [ ] archivo del form (`procesar.php`)
+- [x] archivo JSON (`products.json`)
+- [x] clase Producto (`Producto.php`)
+- [ ] archivo de funciones (opcional)
+- [ ] procesar_contacto.php
 
 ---
 
 ## 🌐 Navegación
-- [ ] nav funcional
-- [ ] links con GET (`?section=`)
-- [ ] todas las secciones accesibles
-- [ ] no hay links rotos
+- [x] nav funcional
+- [x] links con GET (`?vista=`)
+- [x] todas las secciones accesibles
+- [x] no hay links rotos
 
 ---
 
@@ -34,17 +34,17 @@ Cada producto debe tener mínimo 7 atributos:
 ---
 
 ## 🧠 Clase Producto (PHP)
-- [ ] propiedades privadas
-- [ ] constructor
-- [ ] getters
-- [ ] métodos útiles (ej: formatear precio)
+- [x] propiedades privadas
+- [x] getters
+- [ ] constructor formal
+- [x] método obtenerProduct()
 
 ---
 
 ## 📦 JSON
 - [x] estructura válida
 - [x] mínimo 15 productos
-- [x] datos variados (string, number, date)
+- [x] datos variados (string, number)
 - [x] bien formateado
 
 ---
@@ -52,24 +52,24 @@ Cada producto debe tener mínimo 7 atributos:
 # 📄 CHECKLIST POR SECCIÓN
 
 ## 🏠 Home
-- [ ] intro clara de la empresa
-- [ ] contenido semántico
-- [ ] diseño trabajado
+- [x] intro clara de la empresa
+- [x] contenido semántico
+- [x] diseño trabajado
 
 ---
 
 ## 🛒 Productos (todos)
-- [ ] loop dinámico (foreach)
-- [ ] cards/pastillas
-- [ ] imagen
+- [x] loop dinámico (foreach)
+- [x] cards/pastillas
+- [x] imagen
 - [ ] descripción
-- [ ] precio
+- [x] precio
 - [ ] link a detalle
 
 ---
 
 ## 🧩 Categorías / filtros
-- [ ] al menos 1 criterio (ej: categoría)
+- [ ] al menos 1 criterio (categoría)
 - [ ] filtrado dinámico
 - [ ] reutiliza datos del JSON
 
@@ -83,45 +83,45 @@ Cada producto debe tener mínimo 7 atributos:
 ---
 
 ## 📩 Formulario
-- [ ] inputs (nombre, mail, mensaje…)
-- [ ] method POST
+- [x] inputs (nombre, mail, mensaje…)
+- [x] method POST
 - [ ] action a PHP
 - [ ] muestra resumen de datos
 
 ---
 
 ## 👤 Datos del alumno
-- [ ] foto (250px)
-- [ ] nombre
-- [ ] edad o fecha
-- [ ] mail
-- [ ] redes
+- [x] foto (250px)
+- [x] nombre
+- [x] edad o fecha
+- [x] mail
+- [x] redes
 
 ---
 
 # 🧱 HTML
-- [ ] uso de header, main, section, footer
-- [ ] uso correcto de headings (h1 → h6)
-- [ ] párrafos con semántica (strong, em, etc.)
-- [ ] alt en imágenes
+- [x] uso de header, main, section, footer
+- [x] uso correcto de headings (h1 → h6)
+- [x] párrafos con semántica (strong, em, etc.)
+- [x] alt en imágenes
 
 ---
 
 # 🎨 CSS
-- [ ] diseño propio (NO default bootstrap)
-- [ ] responsive
-- [ ] buena jerarquía visual
-- [ ] espaciado consistente
+- [x] diseño propio (NO default bootstrap)
+- [x] responsive
+- [x] buena jerarquía visual
+- [x] espaciado consistente
 
 ---
 
 # ⚙️ PHP
-- [ ] GET para navegación
-- [ ] include / require
-- [ ] clase Producto
-- [ ] lectura de JSON
-- [ ] uso de funciones
-- [ ] código ordenado
+- [x] GET para navegación
+- [x] include / require
+- [x] clase Producto
+- [x] lectura de JSON
+- [ ] archivo de funciones
+- [x] código ordenado
 
 ---
 
@@ -132,4 +132,4 @@ Cada producto debe tener mínimo 7 atributos:
 - [ ] imágenes optimizadas
 - [ ] links funcionan
 - [ ] zip con nombre correcto
-- [ ] todo en español
+- [x] todo en español
