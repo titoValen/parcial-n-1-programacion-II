@@ -52,6 +52,12 @@ section article {
   padding: 1rem;
 }
 
+section article figure {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+
 section article h2 {
   font-family: var(--font-title);
   font-size: clamp(24px, 7vw, 36px);
