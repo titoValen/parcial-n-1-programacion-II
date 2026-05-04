@@ -1,5 +1,5 @@
 <?php
-require_once '../components/head.php';
+require_once '../components/head-form_data.php';
 
 $nombre = $_POST['nombre'];
 $email = $_POST['email'];
@@ -30,33 +30,3 @@ if (empty($nombre) || empty($email) || empty($mensaje)) {
     <a href="../index.php?vista=home">Volver al inicio</a>
   <?php endif; ?>
 </main>
-
-<style>
-main {
-  display: grid;
-  place-items: center;
-  grid-template-rows: auto 1fr;
-  margin: 2rem;
-  background: var(--color-black);
-}
-
-main figure {
-  margin: 0;
-}
-
-main p {
-  font-family: var(--font-body);
-  font-size: 1.25rem;
-  margin: 1rem 0;
-}
-
-main a {
-  font-family: var(--font-body);
-  padding: 0.75rem 1.5rem;
-  border: 2px solid var(--color-black);
-  border-radius: 4px;
-  background: var(--color-white);
-  font-size: 1rem;
-  text-decoration: none;
-}
-</style>
