@@ -1,3 +1,7 @@
+.home-main {
+  position: relative;
+}
+
 .background {
   position: absolute;
   inset: 0;
@@ -13,7 +17,7 @@
   );
 }
 
-.presentacion {
+.home-presentacion {
   height: 90vh;
   display: flex;
   flex-direction: column;
@@ -21,19 +25,19 @@
   align-items: center;
 }
 
-.presentacion h1 {
+.home-presentacion-title {
   font-family: var(--font-title);
   font-size: clamp(36px, 6vw, 56px);
 }
 
-.presentacion p {
+.home-presentacion-description {
   font-family: var(--font-body);
   font-size: clamp(18px, 2vw, 22px);
   text-align: center;
   max-width: 600px;
 }
 
-section {
+.home-section {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -41,7 +45,7 @@ section {
   margin: 0 1rem;
 }
 
-section article {
+.home-article {
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -50,21 +54,36 @@ section article {
   border: 1px solid var(--color-black);
   border-radius: 1rem;
   padding: 1rem;
+  min-width: 250px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-section article figure {
+.home-article:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.home-article-figure {
   width: 100%;
   height: 200px;
   overflow: hidden;
+  border-radius: 0.5rem;
 }
 
-section article h2 {
+.home-article-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.home-article-title {
   font-family: var(--font-title);
   font-size: clamp(24px, 7vw, 36px);
 }
 
-section article p {
+.home-article-description {
   font-family: var(--font-body);
   font-size: clamp(14px, 2vw, 18px);
   text-align: center;
+  line-height: 1.6;
 }
