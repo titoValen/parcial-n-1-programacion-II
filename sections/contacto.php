@@ -1,6 +1,6 @@
 <main>
   <h1>Contacto</h1>
-  <form action="#" method="POST">
+  <form action="./process/form_data.php" method="POST">
     <label for="nombre">Nombre:</label>
     <input type="text" id="nombre" name="nombre" required>
 
