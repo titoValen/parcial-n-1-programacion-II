@@ -14,23 +14,3 @@ $productos = Producto::obtenerProduct($url);
     <?php endforeach; ?>
   </section>
 </main>
-
-<style>
-  .products-section {
-    padding: 1.5rem;
-  }
-
-  .products-section h1 {
-    margin-bottom: 1rem;
-    font-family: var(--font-title);
-    font-size: clamp(36px, 5vw, 48px);
-    text-align: center;
-  }
-
-  .products-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1.5rem;
-  }
-</style>
