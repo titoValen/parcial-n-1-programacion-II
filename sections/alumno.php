@@ -27,7 +27,10 @@
         </li>
       </ul>
       <div class="container-descripcion">
-        <p>Estudiante de Da Vinci en la carrera de Diseño y Desarrollo web, cursando el tercer cuatrimestre.</p>
+        <p>
+          Estudiante de <strong>Da Vinci</strong> en la carrera de
+          <em>Diseño y Desarrollo Web</em>, cursando el tercer cuatrimestre.
+        </p>
       </div>
     </div>
   </div>

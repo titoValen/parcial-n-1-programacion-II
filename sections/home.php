@@ -1,6 +1,9 @@
 <main class="home-section">
   <h1>Bienvenidos a la tienda</h1>
-  <p>Explora nuestro catalogo de zapatillas urbanas, running, skate y basquet.</p>
+  <p>
+    Explora nuestro <strong>catalogo de zapatillas</strong> para estilo urbano,
+    entrenamiento <em>running</em>, skate y basquet.
+  </p>
 </main>
 
 <style>

@@ -16,11 +16,17 @@ if (empty($nombre) || empty($email) || empty($mensaje)) {
 <main>
   <?php if (!$estado): ?>
     <figure><img src="../img/icon/check-error.webp" alt="Check Error"></figure>
-    <p>Hubo un error al enviar tu mensaje. Por favor, inténtalo de nuevo.</p>
+    <p>
+      <strong>Hubo un error</strong> al enviar tu mensaje.
+      Por favor, <em>intentalo de nuevo</em>.
+    </p>
     <a href="../index.php?vista=contacto">Volver al formulario</a>
   <?php else: ?>
     <figure><img src="../img/icon/check.webp" alt="Check"></figure>
-    <p>Gracias por tu mensaje, <?= $nombre ?>. Nos pondremos en contacto contigo pronto.</p>
+    <p>
+      Gracias por tu mensaje, <strong><?= $nombre ?></strong>.
+      Nos pondremos en contacto contigo <em>pronto</em>.
+    </p>
     <a href="../index.php?vista=home">Volver al inicio</a>
   <?php endif; ?>
 </main>
