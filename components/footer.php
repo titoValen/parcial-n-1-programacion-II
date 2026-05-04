@@ -6,9 +6,9 @@
     </picture>
     <nav>
       <ul>
-        <li><a href="index.php">Inicio</a></li>
+        <li><a href="index.php?vista=home">Inicio</a></li>
         <li><a href="#">Acerca de</a></li>
-        <li><a href="#">Contacto</a></li>
+        <li><a href="index.php?vista=contacto">Contacto</a></li>
       </ul>
     </nav>
     <span>&copy; 2026 Mi Sitio Web. Todos los derechos reservados.</span>
