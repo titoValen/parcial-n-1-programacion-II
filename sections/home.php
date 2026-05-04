@@ -41,4 +41,9 @@
       </p>
     </article>
   </section>
+
+  <section class="home-cta-section">
+    <a class="home-cta-link" href="?vista=producto">Ver productos</a>
+    <a class="home-cta-link" href="?vista=contacto">Contacto</a>
+  </section>
 </main>
