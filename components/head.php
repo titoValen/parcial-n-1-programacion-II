@@ -9,4 +9,28 @@
 
   <link rel="stylesheet" href="style/gobal.css">
   <link rel="stylesheet" href="style/index.css">
+
+  <?php if (
+    isset($_GET['vista']) &&
+    !empty($_GET['vista'])
+  ): ?>
+    <?php
+    switch ($_GET['vista']) {
+      case 'home':
+        echo '<link rel="stylesheet" href="style/home.css">';
+        break;
+      case 'contacto':
+        echo '<link rel="stylesheet" href="style/contacto.css">';
+        break;
+      case 'producto':
+        echo '<link rel="stylesheet" href="style/producto.css">';
+        break;
+      case 'alumno':
+        echo '<link rel="stylesheet" href="style/alumno.css">';
+        break;
+      default:
+        echo 'Algo ocurrio mal';
+    }
+    ?>
+  <?php endif ?>
 </head>
