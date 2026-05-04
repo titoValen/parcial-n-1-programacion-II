@@ -11,103 +11,34 @@
 
   <section>
     <article>
-      <figure><img src="" alt=""></figure>
-      <h2>Probando 1</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus sunt fugit voluptatem quae, laudantium rerum
-        perspiciatis reprehenderit quidem sint. Earum quos fugiat sint perferendis optio, tempore qui error libero
-        distinctio.
-        Perspiciatis, dolore. Illum quas officia, fugit amet nihil illo ab possimus exercitationem quia ullam recusandae
-        alias corporis. Itaque, et. A, perspiciatis incidunt! Tempore repellat deleniti, ullam ipsum molestias nulla
-        incidunt.
-        Ex, nobis! Culpa a, illo quia dolor iure quos voluptatum deleniti. Fugiat, ipsum facere ex veniam assumenda cum
-        autem sed, voluptates magnam libero voluptatem aliquid eligendi veritatis temporibus! Molestiae, placeat!
-        Debitis aliquam doloremque placeat ipsa suscipit. Quam atque nostrum inventore qui iure, accusamus molestias
-        dignissimos corrupti, obcaecati porro temporibus quidem. Eligendi corporis sit distinctio deserunt ab,
-        voluptatem minus facere expedita?
-        Voluptatem nostrum aspernatur tenetur neque dicta reiciendis quibusdam eos distinctio labore aperiam!
-        Perspiciatis dolorem, neque corporis repudiandae odit harum minima pariatur architecto nulla consectetur
-        possimus, voluptates dolore consequatur distinctio ullam?
-        Nobis ullam nulla cumque aliquam quos. Illo numquam saepe maiores quos, deleniti reprehenderit nostrum animi est
-        sint nam voluptates officia veritatis ab dolorem harum officiis consequuntur assumenda placeat repudiandae
-        veniam.
-        Minus qui sit, consequuntur inventore magnam natus delectus. Assumenda temporibus aliquam modi unde deleniti
-        tempore esse adipisci aliquid laborum? Consequuntur magni cumque placeat dicta est voluptate dignissimos officia
-        alias accusamus!
-        Rerum necessitatibus perspiciatis sunt. Eum debitis facilis soluta veniam voluptas eius minima ut rerum,
-        temporibus minus sapiente provident odio maiores officia pariatur reiciendis doloribus harum quidem consequuntur
-        repellendus! Sit, a?
-        Praesentium facere doloribus, deleniti illo nobis quam. Unde dolores error tenetur officia rem, libero,
-        architecto possimus debitis fugiat quam culpa est harum impedit labore voluptatem quasi eaque eligendi maxime
-        voluptatibus!
-        Vel, temporibus molestias quae maiores non, et exercitationem unde, suscipit minus aperiam delectus. Doloremque
-        ut atque, itaque veniam distinctio ea quia eaque, molestiae omnis aliquam adipisci mollitia, sunt repellendus
-        perspiciatis.</p>
+      <figure><img src="img/photo/zapatillas_correctas.webp" alt="Imagen de zapatillas correctas"></figure>
+      <h2>¿Por qué elegir las zapatillas correctas?</h2>
+      <p>
+        Elegir las zapatillas adecuadas no solo mejora tu estilo, sino también tu comodidad y rendimiento. Un buen
+        calzado puede prevenir lesiones, adaptarse a tu tipo de pisada y acompañarte en cada paso, ya sea para uso
+        diario, deporte o actividades urbanas. En StepUp seleccionamos modelos que combinan diseño, tecnología y confort
+        para que encuentres el equilibrio perfecto entre estética y funcionalidad.
+      </p>
     </article>
     <article>
-      <figure><img src="" alt=""></figure>
-      <h2>Probando 2</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus sunt fugit voluptatem quae, laudantium rerum
-        perspiciatis reprehenderit quidem sint. Earum quos fugiat sint perferendis optio, tempore qui error libero
-        distinctio.
-        Perspiciatis, dolore. Illum quas officia, fugit amet nihil illo ab possimus exercitationem quia ullam recusandae
-        alias corporis. Itaque, et. A, perspiciatis incidunt! Tempore repellat deleniti, ullam ipsum molestias nulla
-        incidunt.
-        Ex, nobis! Culpa a, illo quia dolor iure quos voluptatum deleniti. Fugiat, ipsum facere ex veniam assumenda cum
-        autem sed, voluptates magnam libero voluptatem aliquid eligendi veritatis temporibus! Molestiae, placeat!
-        Debitis aliquam doloremque placeat ipsa suscipit. Quam atque nostrum inventore qui iure, accusamus molestias
-        dignissimos corrupti, obcaecati porro temporibus quidem. Eligendi corporis sit distinctio deserunt ab,
-        voluptatem minus facere expedita?
-        Voluptatem nostrum aspernatur tenetur neque dicta reiciendis quibusdam eos distinctio labore aperiam!
-        Perspiciatis dolorem, neque corporis repudiandae odit harum minima pariatur architecto nulla consectetur
-        possimus, voluptates dolore consequatur distinctio ullam?
-        Nobis ullam nulla cumque aliquam quos. Illo numquam saepe maiores quos, deleniti reprehenderit nostrum animi est
-        sint nam voluptates officia veritatis ab dolorem harum officiis consequuntur assumenda placeat repudiandae
-        veniam.
-        Minus qui sit, consequuntur inventore magnam natus delectus. Assumenda temporibus aliquam modi unde deleniti
-        tempore esse adipisci aliquid laborum? Consequuntur magni cumque placeat dicta est voluptate dignissimos officia
-        alias accusamus!
-        Rerum necessitatibus perspiciatis sunt. Eum debitis facilis soluta veniam voluptas eius minima ut rerum,
-        temporibus minus sapiente provident odio maiores officia pariatur reiciendis doloribus harum quidem consequuntur
-        repellendus! Sit, a?
-        Praesentium facere doloribus, deleniti illo nobis quam. Unde dolores error tenetur officia rem, libero,
-        architecto possimus debitis fugiat quam culpa est harum impedit labore voluptatem quasi eaque eligendi maxime
-        voluptatibus!
-        Vel, temporibus molestias quae maiores non, et exercitationem unde, suscipit minus aperiam delectus. Doloremque
-        ut atque, itaque veniam distinctio ea quia eaque, molestiae omnis aliquam adipisci mollitia, sunt repellendus
-        perspiciatis.</p>
+      <figure><img src="img/photo/elegir_zapatillas.webp" alt="Imagen de cómo elegir zapatillas"></figure>
+      <h2>¿Cómo elegir tus zapatillas ideales?</h2>
+      <p>
+        A la hora de elegir tus zapatillas, es importante tener en cuenta el uso que les vas a dar. Para actividades
+        deportivas, priorizá modelos con buena amortiguación y soporte. Si buscás un look urbano, optá por diseños
+        versátiles y cómodos para el día a día. También es clave considerar el talle, el tipo de suela y los materiales.
+        En nuestra tienda podés filtrar fácilmente por categoría para encontrar el modelo perfecto.
+      </p>
     </article>
     <article>
-      <figure><img src="" alt=""></figure>
-      <h2>Probando 3</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus sunt fugit voluptatem quae, laudantium rerum
-        perspiciatis reprehenderit quidem sint. Earum quos fugiat sint perferendis optio, tempore qui error libero
-        distinctio.
-        Perspiciatis, dolore. Illum quas officia, fugit amet nihil illo ab possimus exercitationem quia ullam recusandae
-        alias corporis. Itaque, et. A, perspiciatis incidunt! Tempore repellat deleniti, ullam ipsum molestias nulla
-        incidunt.
-        Ex, nobis! Culpa a, illo quia dolor iure quos voluptatum deleniti. Fugiat, ipsum facere ex veniam assumenda cum
-        autem sed, voluptates magnam libero voluptatem aliquid eligendi veritatis temporibus! Molestiae, placeat!
-        Debitis aliquam doloremque placeat ipsa suscipit. Quam atque nostrum inventore qui iure, accusamus molestias
-        dignissimos corrupti, obcaecati porro temporibus quidem. Eligendi corporis sit distinctio deserunt ab,
-        voluptatem minus facere expedita?
-        Voluptatem nostrum aspernatur tenetur neque dicta reiciendis quibusdam eos distinctio labore aperiam!
-        Perspiciatis dolorem, neque corporis repudiandae odit harum minima pariatur architecto nulla consectetur
-        possimus, voluptates dolore consequatur distinctio ullam?
-        Nobis ullam nulla cumque aliquam quos. Illo numquam saepe maiores quos, deleniti reprehenderit nostrum animi est
-        sint nam voluptates officia veritatis ab dolorem harum officiis consequuntur assumenda placeat repudiandae
-        veniam.
-        Minus qui sit, consequuntur inventore magnam natus delectus. Assumenda temporibus aliquam modi unde deleniti
-        tempore esse adipisci aliquid laborum? Consequuntur magni cumque placeat dicta est voluptate dignissimos officia
-        alias accusamus!
-        Rerum necessitatibus perspiciatis sunt. Eum debitis facilis soluta veniam voluptas eius minima ut rerum,
-        temporibus minus sapiente provident odio maiores officia pariatur reiciendis doloribus harum quidem consequuntur
-        repellendus! Sit, a?
-        Praesentium facere doloribus, deleniti illo nobis quam. Unde dolores error tenetur officia rem, libero,
-        architecto possimus debitis fugiat quam culpa est harum impedit labore voluptatem quasi eaque eligendi maxime
-        voluptatibus!
-        Vel, temporibus molestias quae maiores non, et exercitationem unde, suscipit minus aperiam delectus. Doloremque
-        ut atque, itaque veniam distinctio ea quia eaque, molestiae omnis aliquam adipisci mollitia, sunt repellendus
-        perspiciatis.</p>
+      <figure><img src="img/photo/tendencia.webp" alt="Imagen de tendencias en zapatillas"></figure>
+      <h2>Tendencias en zapatillas urbanas</h2>
+      <p>
+        Las zapatillas se han convertido en un elemento clave de la moda urbana. Desde modelos clásicos hasta ediciones
+        limitadas, hoy forman parte de la identidad de cada persona. Los colores vibrantes, las suelas voluminosas y los
+        diseños retro están marcando tendencia. En StepUp te mantenemos actualizado con lo último en sneakers para que
+        puedas destacar con tu estilo propio.
+      </p>
     </article>
   </section>
 </main>
