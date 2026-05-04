@@ -32,5 +32,7 @@
         echo 'Algo ocurrio mal';
     }
     ?>
+  <?php else: ?>
+    <?php echo '<link rel="stylesheet" href="style/home.css">'; ?>
   <?php endif ?>
 </head>
