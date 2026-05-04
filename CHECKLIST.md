@@ -102,7 +102,7 @@ Cada producto debe tener mínimo 7 atributos:
 # 🧱 HTML
 - [x] uso de header, main, section, footer
 - [x] uso correcto de headings (h1 → h6)
-- [ ] párrafos con semántica (strong, em, etc.)
+- [x] párrafos con semántica (strong, em, etc.)
 - [x] alt en imágenes
 
 ---
