@@ -6,7 +6,7 @@
 - [x] archivo JSON (`products.json`)
 - [x] clase Producto (`Producto.php`)
 - [ ] archivo de funciones (opcional)
-- [ ] procesar_contacto.php
+- [x] archivo de procesamiento de contacto (`process/form_data.php`)
 
 ---
 
@@ -85,7 +85,7 @@ Cada producto debe tener mínimo 7 atributos:
 ## 📩 Formulario
 - [x] inputs (nombre, mail, mensaje…)
 - [x] method POST
-- [ ] action a PHP
+- [x] action a PHP
 - [ ] muestra resumen de datos
 
 ---
@@ -102,7 +102,7 @@ Cada producto debe tener mínimo 7 atributos:
 # 🧱 HTML
 - [x] uso de header, main, section, footer
 - [x] uso correcto de headings (h1 → h6)
-- [x] párrafos con semántica (strong, em, etc.)
+- [ ] párrafos con semántica (strong, em, etc.)
 - [x] alt en imágenes
 
 ---
