@@ -5,7 +5,7 @@ require_once 'components/head.php';
 <body>
   <?php require_once 'components/header.php'; ?>
   <?php
-  $vistas_creadas = ['home', 'producto', 'contacto', 'alumno'];
+  require_once 'config/created_views.php';
   if (
     isset($_GET['vista']) &&
     !empty($_GET['vista']) &&
