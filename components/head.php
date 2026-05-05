@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="style/gobal.css">
   <link rel="stylesheet" href="style/index.css">
 
-  <?php 
+  <?php
   require_once 'config/created_views.php';
   if (
     isset($_GET['vista']) &&
@@ -31,8 +31,11 @@
       case 'alumno':
         echo '<link rel="stylesheet" href="style/alumno.css">';
         break;
+      case 'detalle':
+        echo '<link rel="stylesheet" href="style/detalle.css">';
+        break;
       default:
-        echo 'Algo ocurrio mal';
+        echo 'Algo ocurrio mal al cargar la vista del css';
     }
     ?>
   <?php else: ?>
