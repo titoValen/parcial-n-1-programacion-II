@@ -69,9 +69,9 @@ Cada producto debe tener mínimo 7 atributos:
 ---
 
 ## 🧩 Categorías / filtros
-- [ ] al menos 1 criterio (categoría)
-- [ ] filtrado dinámico
-- [ ] reutiliza datos del JSON
+- [x] al menos 1 criterio (categoría)
+- [x] filtrado dinámico
+- [x] reutiliza datos del JSON
 
 ---
 
@@ -130,6 +130,6 @@ Cada producto debe tener mínimo 7 atributos:
 - [ ] funciona en Firefox
 - [ ] no hay errores PHP
 - [ ] imágenes optimizadas
-- [ ] links funcionan
+- [x] links funcionan
 - [ ] zip con nombre correcto
 - [x] todo en español
