@@ -11,8 +11,8 @@
       <h2 class="card-title"><?php echo $producto->getBrand(); ?> <?php echo $producto->getName(); ?></h2>
     </div>
 
-    <div>
-      <a href="?vista=detalle&id=<?php echo $producto->getId(); ?>">Ver detalles</a>
+    <div class="card-footer">
+      <a class="card-btn" href="?vista=detalle&id=<?php echo $producto->getId(); ?>">Ver detalles</a>
     </div>
   </article>
 <?php endif; ?>
