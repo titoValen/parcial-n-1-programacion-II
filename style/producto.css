@@ -15,3 +15,36 @@
   justify-content: center;
   gap: 1.5rem;
 }
+
+.filter-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.filter-text {
+  font-family: var(--font-title);
+  font-size: 1.25rem;
+  color: var(--color-black);
+}
+
+.filter-btn {
+  font-family: var(--font-title);
+  font-size: 1.25rem;
+  padding: 0.4rem 1.25rem;
+  border: 2px solid var(--color-black);
+  border-radius: 2rem;
+  color: var(--color-black);
+  transition:
+    background 0.2s ease,
+    color 0.2s ease;
+}
+
+.filter-btn:hover,
+.filter-btn.active {
+  background: var(--color-black);
+  color: var(--color-green);
+}
