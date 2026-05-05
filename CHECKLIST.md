@@ -64,7 +64,7 @@ Cada producto debe tener mínimo 7 atributos:
 - [x] imagen
 - [ ] descripción
 - [x] precio
-- [ ] link a detalle
+- [x] link a detalle
 
 ---
 
@@ -76,9 +76,9 @@ Cada producto debe tener mínimo 7 atributos:
 ---
 
 ## 🔍 Detalle de producto
-- [ ] dinámico con GET (`id`)
+- [x] dinámico con GET (`id`)
 - [ ] muestra TODOS los datos
-- [ ] funciona para cualquier producto
+- [x] funciona para cualquier producto
 
 ---
 
