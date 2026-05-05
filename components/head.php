@@ -10,9 +10,12 @@
   <link rel="stylesheet" href="style/gobal.css">
   <link rel="stylesheet" href="style/index.css">
 
-  <?php if (
+  <?php 
+  require_once 'config/created_views.php';
+  if (
     isset($_GET['vista']) &&
-    !empty($_GET['vista'])
+    !empty($_GET['vista']) &&
+    in_array($_GET['vista'], $vistas_creadas)
   ): ?>
     <?php
     switch ($_GET['vista']) {
