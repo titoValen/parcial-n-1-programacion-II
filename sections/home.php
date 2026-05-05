@@ -5,7 +5,7 @@
     <h1 class="home-presentacion-title">Bienvenidos a la tienda</h1>
     <p class="home-presentacion-description">
       Explora nuestro <strong>catalogo de zapatillas</strong> para estilo urbano,
-      entrenamiento <em>running</em>, skate y basquet.
+      entrenamiento running, skate y basquet.
     </p>
   </div>
 
