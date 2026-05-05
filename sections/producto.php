@@ -1,6 +1,6 @@
 <?php
 require_once 'classes/Producto.php';
-require_once 'endpoint/config.php';
+require_once 'config/endpoint.php';
 
 $productos = Producto::obtenerProduct($url);
 ?>
